@@ -12,5 +12,6 @@ sistem Android untuk event booting tersebut.
 - [x] Implicit Intent berfungsi untuk memanggil fungsi activity yang sudah ada di fungsi internal android seperti Dial Number, Open Browser dan lainnya.
 # Contoh Intent :
 Dibawah ini merupakan contoh Explicit Intent yang mengaktifkan komponen lain dalam satu aplikasi dengan media button.
+
 ![AltText](https://github.com/najmi10/Intent-Send-Data/blob/master/ikiIntent.png)
 ![AltText](https://github.com/najmi10/Intent-Send-Data/blob/master/Intent2.png)
